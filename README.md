@@ -3,6 +3,20 @@
 
 ### Foxconn Industrial AI Data Challenge: Time Series Forecasting for Tool RUL Prediction
 
+Table of Contents:
+
+1. [Project Overview](#project-overview)
+2. [Data](#data)
+3. [Data Preprocessing](#data-preprocessing)
+   - [Data Synchronization](#data-synchronization)
+   - [Feature Engineering](#feature-engineering)
+4. [Modeling](#modeling)
+   - [Data Normalization](#data-normalization)
+   - [Model Selection](#model-selection)
+   - [Goal](#goal)
+5. [Results](#results)
+6. [Technologies Used](#technologies-used)
+   
 #### Project Overview:
 The Foxconn Industrial AI Data Challenge centered on the crucial task of time series forecasting to predict the Remaining Useful Life (RUL) of industrial tools. Given the importance of proactive maintenance in industrial settings, accurately determining RUL can lead to optimal operational efficiency and reduced downtime.
 
