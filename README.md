@@ -3,8 +3,7 @@
 
 ### Foxconn Industrial AI Data Challenge: Time Series Forecasting for Tool RUL Prediction
 
-Table of Contents:
-
+**Table of Contents:**
 1. [Project Overview](#project-overview)
 2. [Data](#data)
 3. [Data Preprocessing](#data-preprocessing)
@@ -46,14 +45,10 @@ The dataset comprises vibration signal data for three different types of tools, 
 
 
 
-### Results:
+#### Results:
 
 In the context of the classroom setting, the model and methodology employed for this challenge proved to be exceptionally effective. The project was awarded the top score, culminating in an **A** grade. This distinction underscores the robustness and efficacy of the approach taken, positioning it as a potential benchmark for similar projects or challenges.
 
 It's worth noting that the exact performance metrics or proximity to the optimal solution were not disclosed by the professor, possibly due to confidentiality or the proprietary nature of the challenge data and specifics. However, the top grade achieved is a testament to the model's superior performance relative to other solutions presented in the class.
-
-#### Technologies Used:
-- Python
-- XGBoost
 
 ---
