@@ -20,7 +20,7 @@
 The Foxconn Industrial AI Data Challenge centered on the crucial task of time series forecasting to predict the Remaining Useful Life (RUL) of industrial tools. Given the importance of proactive maintenance in industrial settings, accurately determining RUL can lead to optimal operational efficiency and reduced downtime. Ranked 1st in my class for this challenge.
 
 <p align="center">
- <img src="https://github.com/tyrellto/RUL-tool-prediction/assets/61175343/8bc7fab3-ea52-433f-82ac-a475074f785d" width="300" alt="RUL Sample"/>
+ <img src="https://github.com/tyrellto/RUL-tool-prediction/assets/61175343/8bc7fab3-ea52-433f-82ac-a475074f785d" width="600" alt="RUL Sample"/>
 </p>
 
 #### Data:
