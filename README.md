@@ -17,7 +17,7 @@
 6. [Technologies Used](#technologies-used)
    
 #### Project Overview:
-The Foxconn Industrial AI Data Challenge centered on the crucial task of time series forecasting to predict the Remaining Useful Life (RUL) of industrial tools. Given the importance of proactive maintenance in industrial settings, accurately determining RUL can lead to optimal operational efficiency and reduced downtime.
+The Foxconn Industrial AI Data Challenge centered on the crucial task of time series forecasting to predict the Remaining Useful Life (RUL) of industrial tools. Given the importance of proactive maintenance in industrial settings, accurately determining RUL can lead to optimal operational efficiency and reduced downtime. Ranked 1st in my class for this challenge.
 
 #### Data:
 The dataset comprises vibration signal data for three different types of tools, inclusive of:
